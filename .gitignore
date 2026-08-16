@@ -1,0 +1,3 @@
+# Ignore venv
+venv/
+.venv/
