@@ -19,24 +19,3 @@ PySint is a simple OSINT search tool written in Python.
 
 ```bash
 pip install selenium webdriver-manager
-
-
-🇷🇺 РУССКИЙ ЯЗЫК
-
-PySint — это простой инструмент для OSINT-поиска, написанный на Python.
-
-## Возможности
-
-- Поиск в Google, Bing, DuckDuckGo
-- Поиск в интернете, новостях, изображениях, видео
-- Точный поиск
-- Безопасный поиск
-- Режим инкогнито
-- Фильтры по языку и региону
-- Фильтры по источнику
-- Поиск по имени пользователя, электронной почте, телефону, домену, IP, URL и имени
-
-## Установка
-
-```bash
-pip install selenium webdriver-manager
